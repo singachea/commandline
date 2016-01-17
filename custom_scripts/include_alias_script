@@ -1,3 +1,6 @@
 
+if [ ! -z $(grep "custom_alias" ~/.zshrc) ]; then 
+echo "great"
+	echo "if [ -f .custom_alias ]; then source .custom_alias; fi" >> ~/.zshrc; 
+fi
 
-if [ ! -z $(grep "custom_alias" ~/.zshrc) ]; then echo "if [ -f .custom_alias ]; then source .custom_alias; fi" >> ~/.zshrc; fi
