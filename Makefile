@@ -2,7 +2,7 @@
 
 
 default:
-	less README.md
+	grip README.md 
 
 alias:
 	cp .custom_alias ~/
