@@ -15,9 +15,12 @@ This use **Makefile** as command line to do all installation to simplify my life
 
 [https://gist.github.com/kevin-smets/8568070](https://gist.github.com/kevin-smets/8568070)
 
+## FZF package
+
+		$> brew install fzf
+		$> echo "[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh" >> ~/.zshrc
 
 ## SSH config sample
-
 
 Host jumpbox
   HostName 172.0.0.1
