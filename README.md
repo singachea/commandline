@@ -1,15 +1,10 @@
 # A collection of learning for noob like me
 This use **Makefile** as command line to do all installation to simplify my life.
 
-
-
 ## Tmux
 ### Tmux requirement
 
 	$> brew install reattach-to-user-namespace
-
-
-
 
 ## iTerm2 Console
 
@@ -22,6 +17,7 @@ This use **Makefile** as command line to do all installation to simplify my life
 
 ## SSH config sample
 
+```bash
 Host jumpbox
   HostName 172.0.0.1
   User username_here
@@ -33,4 +29,4 @@ Host jumpbox-second
   User username_here
   ProxyCommand ssh -t jumpbox -W %h:%p
   LocalForward 7777 redishost.com:6379
-
+```
