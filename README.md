@@ -8,6 +8,8 @@ This use **Makefile** as command line to do all installation to simplify my life
 
 ## iTerm2 Console
 
+Download [iTerm2](https://www.iterm2.com/downloads.html)
+
 [https://gist.github.com/kevin-smets/8568070](https://gist.github.com/kevin-smets/8568070)
 
 ### Color Scheme
