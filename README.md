@@ -10,6 +10,17 @@ This use **Makefile** as command line to do all installation to simplify my life
 
 [https://gist.github.com/kevin-smets/8568070](https://gist.github.com/kevin-smets/8568070)
 
+### Color Scheme
+
+The original package: [https://github.com/mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes).
+
+Install git submodule
+
+```bash
+$> git submodule init
+$> git submodule update
+```
+
 ## FZF package
 
 		$> brew install fzf
