@@ -1,8 +1,6 @@
 
-
-
 default:
-	grip README.md 
+	grip README.md
 
 alias:
 	cp .custom_alias ~/
@@ -18,4 +16,3 @@ git-basic-config:
 	git config --global user.name "Ream Lim"
 	git config --global user.email "singachea@gmail.com"
 	git config --global core.excludesfile ~/.gitignore_global
-
