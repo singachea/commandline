@@ -76,3 +76,7 @@ Host jumpbox-second
 
 ## Old mac software
  * Xee: [http://wakaba.c3.cx/releases/Xee/Xee2.2.zip](http://wakaba.c3.cx/releases/Xee/Xee2.2.zip)
+
+You can install this directly:
+
+  brew cask install "$(pwd)"/lib/casks/xee2.rb
