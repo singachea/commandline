@@ -47,6 +47,7 @@ install-basic-brew:
 	brew install xz
 
 install-basic-brew-cask:
+	brew cask install 1password 
 	brew cask install 4k-video-downloader
 	brew cask install adobe-reader
 	brew cask install anaconda
