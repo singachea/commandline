@@ -73,3 +73,6 @@ Host jumpbox-second
   ProxyCommand ssh -t jumpbox -W %h:%p
   LocalForward 7777 redishost.com:6379
 ```
+
+## Old mac software
+ * Xee: [http://wakaba.c3.cx/releases/Xee/Xee2.2.zip](http://wakaba.c3.cx/releases/Xee/Xee2.2.zip)
