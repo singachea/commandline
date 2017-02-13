@@ -80,3 +80,7 @@ Host jumpbox-second
 You can install this directly:
 
   brew cask install "$(pwd)"/lib/casks/xee2.rb
+
+
+## References
+  * [http://sourabhbajaj.com/mac-setup/index.html](http://sourabhbajaj.com/mac-setup/index.html)
