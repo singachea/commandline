@@ -40,14 +40,14 @@ install-basic-brew:
 	brew install redis
 	brew install sha2
 	brew install sqlite
-  brew install teleconsole
+	brew install teleconsole
 	brew install tmux
 	brew install tree
 	brew install vim
 	brew install xz
 
 install-basic-brew-cask:
-	brew cask install 1password 
+	brew cask install 1password
 	brew cask install 4k-video-downloader
 	brew cask install adobe-reader
 	brew cask install anaconda
@@ -73,14 +73,14 @@ install-basic-brew-cask:
 	brew cask install ngrok
 	brew cask install pgadmin4
 	brew cask install postbox
-  brew cask install progressive-downloader
+	brew cask install progressive-downloader
 	brew cask install secure-pipes
-  brew cask install slack
-  brew cask install sourcetree
-  brew cask install spectacle
-  brew cask install sqlitestudio
+	brew cask install slack
+	brew cask install sourcetree
+	brew cask install spectacle
+	brew cask install sqlitestudio
 	brew cask install sublime-text
-  brew cask install teamviewer
+	brew cask install teamviewer
 	brew cask install virtualbox
 	brew cask install visual-studio-code
 	brew cask install vlc
