@@ -53,6 +53,7 @@ install-basic-brew-cask:
 	brew cask install anaconda
 	brew cask install appcleaner
 	brew cask install atom
+	brew cask install cleanmymac
 	brew cask install cyberduck
 	brew cask install docker-toolbox
 	brew cask install emacs
@@ -75,12 +76,15 @@ install-basic-brew-cask:
 	brew cask install postbox
 	brew cask install progressive-downloader
 	brew cask install secure-pipes
+	brew cask install skype
 	brew cask install slack
 	brew cask install sourcetree
 	brew cask install spectacle
 	brew cask install sqlitestudio
 	brew cask install sublime-text
 	brew cask install teamviewer
+	brew cask install veracrypt
+	brew cask install viber
 	brew cask install virtualbox
 	brew cask install visual-studio-code
 	brew cask install vlc
