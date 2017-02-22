@@ -36,7 +36,7 @@ install-basic-brew:
 	brew install node
 	brew install postgresql
 	brew install pgcli
-	brew install python
+	brew install pyenv
 	brew install redis
 	brew install sha2
 	brew install sqlite
@@ -53,7 +53,9 @@ install-basic-brew-cask:
 	brew cask install anaconda
 	brew cask install appcleaner
 	brew cask install atom
+	brew cask install cakebrew
 	brew cask install cleanmymac
+	brew cask install commander-one
 	brew cask install cyberduck
 	brew cask install docker-toolbox
 	brew cask install emacs
