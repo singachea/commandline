@@ -34,6 +34,7 @@ install-basic-brew:
 	brew install jq
 	brew install mysql
 	brew install node
+	brew install osquery
 	brew install postgresql
 	brew install pgcli
 	brew install pyenv
@@ -58,6 +59,7 @@ install-basic-brew-cask:
 	brew cask install commander-one
 	brew cask install cyberduck
 	brew cask install docker-toolbox
+	brew cask install dbeaver-community
 	brew cask install emacs
 	brew cask install firefox
 	brew cask install flux
