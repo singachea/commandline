@@ -61,6 +61,7 @@ install-basic-brew-cask:
 	brew cask install docker-toolbox
 	brew cask install dbeaver-community
 	brew cask install emacs
+	brew cask install elm-platform
 	brew cask install firefox
 	brew cask install flux
 	brew cask install google-chrome
